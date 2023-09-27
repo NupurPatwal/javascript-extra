@@ -3,7 +3,8 @@ let name ="Nupur"
 var  email= "nupurpatwall@gmail.com"
  city ="newDelhi"
 
- /*please not use scope because of issues in functional scope and var scope */
+ /*please not use scope because of issues in functional scope and block
+scope */
 
   email = "nuput@outlook.com"
   name = "rupun"
