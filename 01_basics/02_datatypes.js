@@ -19,8 +19,8 @@ let num= 5
 let val= true 
 
 console.log(typeof num)
-console.log(typeof name)
+console.log("The type of name is " + typeof name)
 console.log(typeof val)
 
 console.log(typeof undefined) // undefined bc it is a type
-console.log(typeof null) // object
+console.log( typeof null) // object
